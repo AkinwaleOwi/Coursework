@@ -16,7 +16,7 @@ DeVry University
 - Major: Computer Information Systems
 - Concentration: Cyber Security
 - Status: [Completed]
-- Graduated: [2026]
+- Graduated: [2025]
 
 ---
 
@@ -56,27 +56,9 @@ DeVry University
 # 🏛️ Previous Coursework
 
 ## Previous Major Coursework at DeVry University
-
-### Areas of Study
-- [Subject Area]
-- [Subject Area]
-- [Subject Area]
-
 ---
 
 ## Previous Coursework at Florida Atlantic University
-
-| Course Code | Course Name | Credits |
-|------------|-------------|---------|
-| FAU001 | Course Name | X |
-| FAU002 | Course Name | X |
-| FAU003 | Course Name | X |
-
-### Areas of Study
-- [Subject Area]
-- [Subject Area]
-- [Subject Area]
-
 ---
 
 # 💻 Technical Skills Acquired
@@ -127,6 +109,8 @@ DeVry University
 This repository documents:
 
 - Academic coursework
+
+It will document: 
 - Class projects
 - Cyber security labs
 - Technical assignments
@@ -137,9 +121,8 @@ This repository documents:
 
 # 📫 Contact
 
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Username]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/akinwale-owi/
+- Email: AkinwaleOwi22@Gmail.com
 
 ---
 

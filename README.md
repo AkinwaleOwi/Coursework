@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am acquired a Bachelor of Science in Computer Information Systems with a Concentration in Cyber Security at DeVry University. This repository serves as a record of my academic coursework, technical development, and educational achievements.
+I acquired a Bachelor of Science in Computer Information Systems with a Concentration in Cyber Security at DeVry University. This repository serves as a record of my academic coursework, technical development, and educational achievements.
 
 ---
 
